@@ -1,0 +1,25 @@
+{
+  "name": "nodejstelegrambot-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndmen/nodejstelegrambot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndmen/nodejstelegrambot/issues"
+  },
+  "homepage": "https://github.com/ndmen/nodejstelegrambot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
