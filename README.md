@@ -1,5 +1,6 @@
 # nodejstelegrambot
 
+Telegram bot on Node. Can get currency from API Privatbank(USD, EUR, RUB, BTC)
 
 Example:
 
